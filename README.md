@@ -6,3 +6,7 @@ The functioning is very easy: once you enter the data described above, for every
 
 
 ![alt text](https://github.com/gvnnbrtln/TennisPoints/blob/master/media/new_match.PNG)
+![alt text](https://github.com/gvnnbrtln/TennisPoints/blob/master/media/player.PNG)
+![alt text](https://github.com/gvnnbrtln/TennisPoints/blob/master/media/set.PNG)
+![alt text](https://github.com/gvnnbrtln/TennisPoints/blob/master/media/serve.PNG)
+![alt text](https://github.com/gvnnbrtln/TennisPoints/blob/master/media/points.PNG)
